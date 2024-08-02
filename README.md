@@ -1,5 +1,3 @@
-## **Rangkuman Percakapan**
-
 ### **1. Konsep Aplikasi**
 - **Ide:** Aplikasi untuk menyewakan dan menjual barang yang jarang digunakan.
 - **Nama:** Rent&Sell
